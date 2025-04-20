@@ -1,10 +1,11 @@
 hey Lee Look at down!
 <<<<<<< HEAD
 aramzam zam 
-
+new string!
 aramzamzam!
 aramzam zam goli goli goli aramzam zam!
 =======
 aramzam zam aramzam zam goli goli goli aramzam zam!
 Guli guli guli!
->>>>>>> a47948c2a94ba277beff1df15b0fd64ef6968312
+new strin!
+
